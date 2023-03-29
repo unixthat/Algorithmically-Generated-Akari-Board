@@ -38,7 +38,7 @@ In addition, the `AkariGame` class provides several additional methods that can 
 
 The repository includes comprehensive documentation to help users understand and extend the codebase. The repository includes the following documentation:
 
-- [Javadoc](https://github.com/example-user/Algorithmically-Generated-Akari-Board/docs/index.html): The repository includes Javadoc comments for all public classes and methods, providing detailed information on each component's functionality and usage.
+- Javadoc documentation for the Akari/Light up game in Java will be provided in the future, once the code has been further developed and documented. Stay tuned for updates!
 - [README.md](https://github.com/example-user/Algorithmically-Generated-Akari-Board/README.md): This file provides an overview of the repository and its contents, including installation and usage instructions.
 - [LICENSE](https://github.com/example-user/Algorithmically-Generated-Akari-Board/LICENSE): This file specifies the licensing information for the repository.
 
